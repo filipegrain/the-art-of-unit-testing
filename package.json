@@ -1,0 +1,16 @@
+{
+  "name": "the-art-of-unit-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testw": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
